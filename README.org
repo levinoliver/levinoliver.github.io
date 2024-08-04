@@ -104,3 +104,4 @@ radio link
 [fn:1] This is footnote 1
 [fn:foo] This is the footnote
 
+* this is a test entry
